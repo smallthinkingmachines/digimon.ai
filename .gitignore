@@ -1,0 +1,16 @@
+# APK binaries — do not commit
+apks/*.apk
+apks/*.xapk
+
+# Decompiled output — large, regenerable
+apks/decompiled/
+apks/extracted/
+
+# Keys — never commit
+keys.xml
+*.keystore
+secrets/
+
+# Nix
+.direnv/
+result
