@@ -1,0 +1,7 @@
+# Python deps for the Unity asset extraction pipeline (Phase A).
+# Not in nixpkgs — managed by uv inside a .venv that nix develop creates automatically.
+# Install: uv pip install -r requirements-extraction.txt
+# (the shellHook in flake.nix does this on first `nix develop`)
+
+UnityPy==1.25.0
+fsb5==1.0

@@ -15,6 +15,7 @@ data/raw/digimon_reference_smoke/
 # Python
 __pycache__/
 *.pyc
+.venv/
 
 # Unity asset extraction — copyrighted bytes stay local, manifests are committed
 extraction/_source/      # APK provenance manifests (json ok) but never the APKs

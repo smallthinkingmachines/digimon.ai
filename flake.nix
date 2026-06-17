@@ -13,7 +13,9 @@
         pythonEnv = pkgs.python3.withPackages (ps: [
           ps.beautifulsoup4
           ps.requests
-          ps.fsb5          # FSB5 audio bank decoder (FMOD → OGG); fallback for AudioClip extraction
+          # UnityPy + fsb5 are NOT in nixpkgs (native extensions, missing deps).
+          # They're managed by uv in a .venv — see requirements-extraction.txt.
+          # The shellHook auto-creates and activates the venv on `nix develop`.
         ]);
 
         # AssetRipper — Unity asset extractor (not in nixpkgs; pinned mac arm64 release).
@@ -77,6 +79,18 @@ SCRIPT
           shellHook = ''
             export PATH="${pythonEnv}/bin:$PATH"
 
+            # Set up uv-managed venv for packages not in nixpkgs (UnityPy, fsb5).
+            # The venv is created once and reused; `nix develop` installs/upgrades as needed.
+            if [ ! -d ".venv" ]; then
+              echo "Creating .venv for extraction deps (UnityPy, fsb5) ..."
+              uv venv .venv --python ${pythonEnv}/bin/python3 --quiet
+            fi
+            source .venv/bin/activate
+            if ! python -c "import UnityPy" 2>/dev/null; then
+              echo "Installing extraction deps from requirements-extraction.txt ..."
+              uv pip install -r requirements-extraction.txt --quiet
+            fi
+
             echo ""
             echo "digimon.ai — Vital Bracelet revival tools"
             echo "==========================================="
@@ -85,7 +99,8 @@ SCRIPT
             echo "mitmproxy: $(mitmproxy --version 2>&1 | head -1)"
             echo "dotnet:    $(dotnet --version 2>&1 | head -1)"
             echo "ffmpeg:    $(ffmpeg -version 2>&1 | head -1)"
-            echo "Python:    $(python --version)"
+            echo "Python:    $(python --version) (.venv)"
+            echo "UnityPy:   $(python -c 'import UnityPy; print(UnityPy.__version__)' 2>/dev/null || echo 'not installed')"
             echo "just:      $(just --version)"
             echo ""
             echo "Run 'just' to see available commands"

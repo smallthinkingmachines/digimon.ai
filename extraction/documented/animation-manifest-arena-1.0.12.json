@@ -1,0 +1,1498 @@
+{
+  "35": {
+    "name": "anm_Title",
+    "path_id": 35
+  },
+  "36": {
+    "name": "anm_btn",
+    "path_id": 36
+  },
+  "37": {
+    "name": "DialigOpenAnimation",
+    "path_id": 37
+  },
+  "38": {
+    "name": "DialogCloseAnimation",
+    "path_id": 38
+  },
+  "39": {
+    "name": "anm_loading",
+    "path_id": 39
+  },
+  "5": {
+    "name": "anm_CmnBg",
+    "path_id": 5
+  },
+  "73": {
+    "name": "Recorded (17)",
+    "path_id": 73
+  },
+  "74": {
+    "name": "Recorded (3)",
+    "path_id": 74
+  },
+  "75": {
+    "name": "Recorded (3)",
+    "path_id": 75
+  },
+  "76": {
+    "name": "Recorded (3)",
+    "path_id": 76
+  },
+  "77": {
+    "name": "Recorded (3)",
+    "path_id": 77
+  },
+  "78": {
+    "name": "Recorded (3)",
+    "path_id": 78
+  },
+  "79": {
+    "name": "Recorded (3)",
+    "path_id": 79
+  },
+  "80": {
+    "name": "Recorded (3)",
+    "path_id": 80
+  },
+  "81": {
+    "name": "Recorded (3)",
+    "path_id": 81
+  },
+  "82": {
+    "name": "Recorded (3)",
+    "path_id": 82
+  },
+  "83": {
+    "name": "Recorded (3)",
+    "path_id": 83
+  },
+  "84": {
+    "name": "Recorded (3)",
+    "path_id": 84
+  },
+  "85": {
+    "name": "Recorded (3)",
+    "path_id": 85
+  },
+  "86": {
+    "name": "Recorded (3)",
+    "path_id": 86
+  },
+  "87": {
+    "name": "Recorded (15)",
+    "path_id": 87
+  },
+  "88": {
+    "name": "Recorded (15)",
+    "path_id": 88
+  },
+  "89": {
+    "name": "Recorded (11)",
+    "path_id": 89
+  },
+  "90": {
+    "name": "Recorded (3)",
+    "path_id": 90
+  },
+  "91": {
+    "name": "Recorded",
+    "path_id": 91
+  },
+  "92": {
+    "name": "Recorded (5)",
+    "path_id": 92
+  },
+  "93": {
+    "name": "Recorded (11)",
+    "path_id": 93
+  },
+  "94": {
+    "name": "Recorded (30)",
+    "path_id": 94
+  },
+  "95": {
+    "name": "Recorded (30)",
+    "path_id": 95
+  },
+  "96": {
+    "name": "Recorded (30)",
+    "path_id": 96
+  },
+  "97": {
+    "name": "Recorded (30)",
+    "path_id": 97
+  },
+  "98": {
+    "name": "Recorded (17)",
+    "path_id": 98
+  },
+  "99": {
+    "name": "Recorded (1)",
+    "path_id": 99
+  },
+  "100": {
+    "name": "Recorded (34)",
+    "path_id": 100
+  },
+  "101": {
+    "name": "Recorded (10)",
+    "path_id": 101
+  },
+  "102": {
+    "name": "Recorded (14)",
+    "path_id": 102
+  },
+  "103": {
+    "name": "Recorded (14)",
+    "path_id": 103
+  },
+  "104": {
+    "name": "Recorded (14)",
+    "path_id": 104
+  },
+  "105": {
+    "name": "Recorded (14)",
+    "path_id": 105
+  },
+  "106": {
+    "name": "Recorded (28)",
+    "path_id": 106
+  },
+  "107": {
+    "name": "Recorded (10)",
+    "path_id": 107
+  },
+  "108": {
+    "name": "Recorded (5)",
+    "path_id": 108
+  },
+  "109": {
+    "name": "Recorded (16)",
+    "path_id": 109
+  },
+  "110": {
+    "name": "Recorded (11)",
+    "path_id": 110
+  },
+  "111": {
+    "name": "Recorded (11)",
+    "path_id": 111
+  },
+  "112": {
+    "name": "Recorded (4)",
+    "path_id": 112
+  },
+  "113": {
+    "name": "Recorded (4)",
+    "path_id": 113
+  },
+  "114": {
+    "name": "Recorded (4)",
+    "path_id": 114
+  },
+  "115": {
+    "name": "Recorded (4)",
+    "path_id": 115
+  },
+  "116": {
+    "name": "Recorded (4)",
+    "path_id": 116
+  },
+  "117": {
+    "name": "Recorded (4)",
+    "path_id": 117
+  },
+  "118": {
+    "name": "Recorded (4)",
+    "path_id": 118
+  },
+  "119": {
+    "name": "Recorded (4)",
+    "path_id": 119
+  },
+  "120": {
+    "name": "Recorded (4)",
+    "path_id": 120
+  },
+  "121": {
+    "name": "Recorded (4)",
+    "path_id": 121
+  },
+  "122": {
+    "name": "Recorded (4)",
+    "path_id": 122
+  },
+  "123": {
+    "name": "Recorded (4)",
+    "path_id": 123
+  },
+  "124": {
+    "name": "Recorded (4)",
+    "path_id": 124
+  },
+  "125": {
+    "name": "Recorded (7)",
+    "path_id": 125
+  },
+  "126": {
+    "name": "Recorded (7)",
+    "path_id": 126
+  },
+  "127": {
+    "name": "Recorded (7)",
+    "path_id": 127
+  },
+  "128": {
+    "name": "Recorded (7)",
+    "path_id": 128
+  },
+  "129": {
+    "name": "Recorded (7)",
+    "path_id": 129
+  },
+  "130": {
+    "name": "Recorded (7)",
+    "path_id": 130
+  },
+  "131": {
+    "name": "Recorded (7)",
+    "path_id": 131
+  },
+  "132": {
+    "name": "Recorded (7)",
+    "path_id": 132
+  },
+  "133": {
+    "name": "Recorded (7)",
+    "path_id": 133
+  },
+  "134": {
+    "name": "Recorded (7)",
+    "path_id": 134
+  },
+  "135": {
+    "name": "Recorded (7)",
+    "path_id": 135
+  },
+  "136": {
+    "name": "Recorded (7)",
+    "path_id": 136
+  },
+  "137": {
+    "name": "Recorded (17)",
+    "path_id": 137
+  },
+  "138": {
+    "name": "Recorded (17)",
+    "path_id": 138
+  },
+  "139": {
+    "name": "Recorded (17)",
+    "path_id": 139
+  },
+  "140": {
+    "name": "Recorded (17)",
+    "path_id": 140
+  },
+  "141": {
+    "name": "Recorded (6)",
+    "path_id": 141
+  },
+  "142": {
+    "name": "Recorded (29)",
+    "path_id": 142
+  },
+  "143": {
+    "name": "Recorded (29)",
+    "path_id": 143
+  },
+  "144": {
+    "name": "Recorded (29)",
+    "path_id": 144
+  },
+  "145": {
+    "name": "Recorded (29)",
+    "path_id": 145
+  },
+  "146": {
+    "name": "Recorded (20)",
+    "path_id": 146
+  },
+  "147": {
+    "name": "Recorded (20)",
+    "path_id": 147
+  },
+  "148": {
+    "name": "Recorded (20)",
+    "path_id": 148
+  },
+  "149": {
+    "name": "Recorded (20)",
+    "path_id": 149
+  },
+  "150": {
+    "name": "Recorded (20)",
+    "path_id": 150
+  },
+  "151": {
+    "name": "Recorded (20)",
+    "path_id": 151
+  },
+  "152": {
+    "name": "Recorded (20)",
+    "path_id": 152
+  },
+  "153": {
+    "name": "Recorded (20)",
+    "path_id": 153
+  },
+  "154": {
+    "name": "Recorded (20)",
+    "path_id": 154
+  },
+  "155": {
+    "name": "Recorded (20)",
+    "path_id": 155
+  },
+  "156": {
+    "name": "Recorded (20)",
+    "path_id": 156
+  },
+  "157": {
+    "name": "Recorded (20)",
+    "path_id": 157
+  },
+  "158": {
+    "name": "Recorded (8)",
+    "path_id": 158
+  },
+  "159": {
+    "name": "Recorded (2)",
+    "path_id": 159
+  },
+  "160": {
+    "name": "Recorded (16)",
+    "path_id": 160
+  },
+  "161": {
+    "name": "Recorded (16)",
+    "path_id": 161
+  },
+  "162": {
+    "name": "Recorded (16)",
+    "path_id": 162
+  },
+  "163": {
+    "name": "Recorded (16)",
+    "path_id": 163
+  },
+  "164": {
+    "name": "Recorded (4)",
+    "path_id": 164
+  },
+  "165": {
+    "name": "Recorded (11)",
+    "path_id": 165
+  },
+  "166": {
+    "name": "Recorded (31)",
+    "path_id": 166
+  },
+  "167": {
+    "name": "Recorded (31)",
+    "path_id": 167
+  },
+  "168": {
+    "name": "Recorded (31)",
+    "path_id": 168
+  },
+  "169": {
+    "name": "Recorded (31)",
+    "path_id": 169
+  },
+  "170": {
+    "name": "Recorded (9)",
+    "path_id": 170
+  },
+  "171": {
+    "name": "Recorded (2)",
+    "path_id": 171
+  },
+  "172": {
+    "name": "Recorded (6)",
+    "path_id": 172
+  },
+  "173": {
+    "name": "Recorded (5)",
+    "path_id": 173
+  },
+  "174": {
+    "name": "Recorded (2)",
+    "path_id": 174
+  },
+  "175": {
+    "name": "Recorded (2)",
+    "path_id": 175
+  },
+  "176": {
+    "name": "Recorded (21)",
+    "path_id": 176
+  },
+  "177": {
+    "name": "Recorded (1)",
+    "path_id": 177
+  },
+  "178": {
+    "name": "Recorded (16)",
+    "path_id": 178
+  },
+  "179": {
+    "name": "Recorded (6)",
+    "path_id": 179
+  },
+  "180": {
+    "name": "Recorded (5)",
+    "path_id": 180
+  },
+  "181": {
+    "name": "Recorded (5)",
+    "path_id": 181
+  },
+  "182": {
+    "name": "Recorded (5)",
+    "path_id": 182
+  },
+  "183": {
+    "name": "Recorded (5)",
+    "path_id": 183
+  },
+  "184": {
+    "name": "Recorded (5)",
+    "path_id": 184
+  },
+  "185": {
+    "name": "Recorded (5)",
+    "path_id": 185
+  },
+  "186": {
+    "name": "Recorded (5)",
+    "path_id": 186
+  },
+  "187": {
+    "name": "Recorded (5)",
+    "path_id": 187
+  },
+  "188": {
+    "name": "Recorded (5)",
+    "path_id": 188
+  },
+  "189": {
+    "name": "Recorded (5)",
+    "path_id": 189
+  },
+  "190": {
+    "name": "Recorded (5)",
+    "path_id": 190
+  },
+  "191": {
+    "name": "Recorded (5)",
+    "path_id": 191
+  },
+  "192": {
+    "name": "Recorded (18)",
+    "path_id": 192
+  },
+  "193": {
+    "name": "Recorded",
+    "path_id": 193
+  },
+  "194": {
+    "name": "Recorded (14)",
+    "path_id": 194
+  },
+  "195": {
+    "name": "Recorded (14)",
+    "path_id": 195
+  },
+  "196": {
+    "name": "Recorded (14)",
+    "path_id": 196
+  },
+  "197": {
+    "name": "Recorded (14)",
+    "path_id": 197
+  },
+  "198": {
+    "name": "Recorded (14)",
+    "path_id": 198
+  },
+  "199": {
+    "name": "Recorded (14)",
+    "path_id": 199
+  },
+  "200": {
+    "name": "Recorded (19)",
+    "path_id": 200
+  },
+  "201": {
+    "name": "Recorded (19)",
+    "path_id": 201
+  },
+  "202": {
+    "name": "Recorded (19)",
+    "path_id": 202
+  },
+  "203": {
+    "name": "Recorded (19)",
+    "path_id": 203
+  },
+  "204": {
+    "name": "Recorded (19)",
+    "path_id": 204
+  },
+  "205": {
+    "name": "Recorded (19)",
+    "path_id": 205
+  },
+  "206": {
+    "name": "Recorded (19)",
+    "path_id": 206
+  },
+  "207": {
+    "name": "Recorded (19)",
+    "path_id": 207
+  },
+  "208": {
+    "name": "Recorded (19)",
+    "path_id": 208
+  },
+  "209": {
+    "name": "Recorded (19)",
+    "path_id": 209
+  },
+  "210": {
+    "name": "Recorded (19)",
+    "path_id": 210
+  },
+  "211": {
+    "name": "Recorded (19)",
+    "path_id": 211
+  },
+  "212": {
+    "name": "Recorded (19)",
+    "path_id": 212
+  },
+  "213": {
+    "name": "Recorded (13)",
+    "path_id": 213
+  },
+  "214": {
+    "name": "Recorded (13)",
+    "path_id": 214
+  },
+  "215": {
+    "name": "Recorded (13)",
+    "path_id": 215
+  },
+  "216": {
+    "name": "Recorded (13)",
+    "path_id": 216
+  },
+  "217": {
+    "name": "Recorded (22)",
+    "path_id": 217
+  },
+  "218": {
+    "name": "Recorded (33)",
+    "path_id": 218
+  },
+  "219": {
+    "name": "Recorded (10)",
+    "path_id": 219
+  },
+  "220": {
+    "name": "Coin",
+    "path_id": 220
+  },
+  "221": {
+    "name": "00_Coin",
+    "path_id": 221
+  },
+  "222": {
+    "name": "01_BattleStart",
+    "path_id": 222
+  },
+  "223": {
+    "name": "01_BattleStart_Enemy",
+    "path_id": 223
+  },
+  "224": {
+    "name": "02_Idle_Normal",
+    "path_id": 224
+  },
+  "225": {
+    "name": "03_Idle_Normal_short",
+    "path_id": 225
+  },
+  "226": {
+    "name": "04_Idle_Cutin",
+    "path_id": 226
+  },
+  "227": {
+    "name": "09_Battle_Ready",
+    "path_id": 227
+  },
+  "228": {
+    "name": "10_Battle_Attack",
+    "path_id": 228
+  },
+  "229": {
+    "name": "12_Battle_Damage",
+    "path_id": 229
+  },
+  "230": {
+    "name": "CharacterIn",
+    "path_id": 230
+  },
+  "231": {
+    "name": "Damage",
+    "path_id": 231
+  },
+  "232": {
+    "name": "DamageText",
+    "path_id": 232
+  },
+  "233": {
+    "name": "Death",
+    "path_id": 233
+  },
+  "234": {
+    "name": "Deffense",
+    "path_id": 234
+  },
+  "235": {
+    "name": "Effect",
+    "path_id": 235
+  },
+  "236": {
+    "name": "EffectDamege_01",
+    "path_id": 236
+  },
+  "237": {
+    "name": "Idle",
+    "path_id": 237
+  },
+  "238": {
+    "name": "MiniGameResult",
+    "path_id": 238
+  },
+  "239": {
+    "name": "SelectEnd",
+    "path_id": 239
+  },
+  "240": {
+    "name": "SelectStart",
+    "path_id": 240
+  },
+  "241": {
+    "name": "Attack",
+    "path_id": 241
+  },
+  "242": {
+    "name": "Defense",
+    "path_id": 242
+  },
+  "243": {
+    "name": "TurnCountAnimation",
+    "path_id": 243
+  },
+  "244": {
+    "name": "EnemyChangeEnd",
+    "path_id": 244
+  },
+  "245": {
+    "name": "EnemyChangeStart",
+    "path_id": 245
+  },
+  "246": {
+    "name": "EnemySubstituteEnd",
+    "path_id": 246
+  },
+  "247": {
+    "name": "EnemySubstituteIdle",
+    "path_id": 247
+  },
+  "248": {
+    "name": "EnemySubstituteStart",
+    "path_id": 248
+  },
+  "249": {
+    "name": "ExcelentText",
+    "path_id": 249
+  },
+  "250": {
+    "name": "MiniGameEnd",
+    "path_id": 250
+  },
+  "251": {
+    "name": "MiniGameStart",
+    "path_id": 251
+  },
+  "252": {
+    "name": "PlayerChangeEnd",
+    "path_id": 252
+  },
+  "253": {
+    "name": "PlayerChangeStart",
+    "path_id": 253
+  },
+  "254": {
+    "name": "PlayerSubstituteEnd",
+    "path_id": 254
+  },
+  "255": {
+    "name": "PlayerSubstituteIdle",
+    "path_id": 255
+  },
+  "256": {
+    "name": "PlayerSubstituteStart",
+    "path_id": 256
+  },
+  "257": {
+    "name": "anm_BtlResult_text",
+    "path_id": 257
+  },
+  "258": {
+    "name": "anm_BuffEffe",
+    "path_id": 258
+  },
+  "259": {
+    "name": "anm_BuffTxt",
+    "path_id": 259
+  },
+  "260": {
+    "name": "anm_DeBuffTxt",
+    "path_id": 260
+  },
+  "261": {
+    "name": "anm_DebuffEffe",
+    "path_id": 261
+  },
+  "262": {
+    "name": "anm_LoseText",
+    "path_id": 262
+  },
+  "263": {
+    "name": "anm_WinEffe",
+    "path_id": 263
+  },
+  "264": {
+    "name": "anm_WinText",
+    "path_id": 264
+  },
+  "265": {
+    "name": "anm_cutin_resul_out",
+    "path_id": 265
+  },
+  "266": {
+    "name": "anm_cutin_result",
+    "path_id": 266
+  },
+  "267": {
+    "name": "anm_CutInGuts",
+    "path_id": 267
+  },
+  "268": {
+    "name": "anm_combo",
+    "path_id": 268
+  },
+  "269": {
+    "name": "anm_circle",
+    "path_id": 269
+  },
+  "270": {
+    "name": "Recorded (8)",
+    "path_id": 270
+  },
+  "271": {
+    "name": "Recorded (25)",
+    "path_id": 271
+  },
+  "272": {
+    "name": "Recorded (21)",
+    "path_id": 272
+  },
+  "273": {
+    "name": "Recorded (21)",
+    "path_id": 273
+  },
+  "274": {
+    "name": "Recorded (21)",
+    "path_id": 274
+  },
+  "275": {
+    "name": "Recorded (21)",
+    "path_id": 275
+  },
+  "276": {
+    "name": "Recorded (21)",
+    "path_id": 276
+  },
+  "277": {
+    "name": "Recorded (21)",
+    "path_id": 277
+  },
+  "278": {
+    "name": "Recorded (21)",
+    "path_id": 278
+  },
+  "279": {
+    "name": "Recorded (21)",
+    "path_id": 279
+  },
+  "280": {
+    "name": "Recorded (21)",
+    "path_id": 280
+  },
+  "281": {
+    "name": "Recorded (21)",
+    "path_id": 281
+  },
+  "282": {
+    "name": "Recorded (21)",
+    "path_id": 282
+  },
+  "283": {
+    "name": "Recorded (21)",
+    "path_id": 283
+  },
+  "284": {
+    "name": "Recorded (2)",
+    "path_id": 284
+  },
+  "285": {
+    "name": "Recorded (2)",
+    "path_id": 285
+  },
+  "286": {
+    "name": "Recorded (2)",
+    "path_id": 286
+  },
+  "287": {
+    "name": "Recorded (2)",
+    "path_id": 287
+  },
+  "288": {
+    "name": "Recorded (2)",
+    "path_id": 288
+  },
+  "289": {
+    "name": "Recorded (2)",
+    "path_id": 289
+  },
+  "290": {
+    "name": "Recorded (2)",
+    "path_id": 290
+  },
+  "291": {
+    "name": "Recorded (2)",
+    "path_id": 291
+  },
+  "292": {
+    "name": "Recorded (2)",
+    "path_id": 292
+  },
+  "293": {
+    "name": "Recorded (2)",
+    "path_id": 293
+  },
+  "294": {
+    "name": "Recorded (2)",
+    "path_id": 294
+  },
+  "295": {
+    "name": "Recorded (2)",
+    "path_id": 295
+  },
+  "296": {
+    "name": "Recorded (25)",
+    "path_id": 296
+  },
+  "297": {
+    "name": "Recorded (25)",
+    "path_id": 297
+  },
+  "298": {
+    "name": "Recorded (25)",
+    "path_id": 298
+  },
+  "299": {
+    "name": "Recorded (25)",
+    "path_id": 299
+  },
+  "300": {
+    "name": "Recorded (13)",
+    "path_id": 300
+  },
+  "301": {
+    "name": "Recorded (13)",
+    "path_id": 301
+  },
+  "302": {
+    "name": "Recorded (13)",
+    "path_id": 302
+  },
+  "303": {
+    "name": "Recorded (13)",
+    "path_id": 303
+  },
+  "304": {
+    "name": "Recorded (13)",
+    "path_id": 304
+  },
+  "305": {
+    "name": "Recorded (13)",
+    "path_id": 305
+  },
+  "306": {
+    "name": "Recorded (29)",
+    "path_id": 306
+  },
+  "307": {
+    "name": "Recorded (11)",
+    "path_id": 307
+  },
+  "308": {
+    "name": "Recorded (7)",
+    "path_id": 308
+  },
+  "309": {
+    "name": "Recorded (12)",
+    "path_id": 309
+  },
+  "310": {
+    "name": "Recorded (8)",
+    "path_id": 310
+  },
+  "311": {
+    "name": "Recorded (8)",
+    "path_id": 311
+  },
+  "312": {
+    "name": "Recorded (8)",
+    "path_id": 312
+  },
+  "313": {
+    "name": "Recorded (8)",
+    "path_id": 313
+  },
+  "314": {
+    "name": "Recorded (6)",
+    "path_id": 314
+  },
+  "315": {
+    "name": "Recorded (15)",
+    "path_id": 315
+  },
+  "316": {
+    "name": "Recorded (12)",
+    "path_id": 316
+  },
+  "317": {
+    "name": "Recorded (20)",
+    "path_id": 317
+  },
+  "318": {
+    "name": "Recorded (12)",
+    "path_id": 318
+  },
+  "319": {
+    "name": "Recorded (10)",
+    "path_id": 319
+  },
+  "320": {
+    "name": "Recorded",
+    "path_id": 320
+  },
+  "321": {
+    "name": "Recorded (13)",
+    "path_id": 321
+  },
+  "322": {
+    "name": "Recorded (31)",
+    "path_id": 322
+  },
+  "323": {
+    "name": "Recorded (9)",
+    "path_id": 323
+  },
+  "324": {
+    "name": "Recorded",
+    "path_id": 324
+  },
+  "325": {
+    "name": "Recorded (8)",
+    "path_id": 325
+  },
+  "326": {
+    "name": "Recorded (8)",
+    "path_id": 326
+  },
+  "327": {
+    "name": "Recorded (24)",
+    "path_id": 327
+  },
+  "328": {
+    "name": "Recorded (24)",
+    "path_id": 328
+  },
+  "329": {
+    "name": "Recorded (24)",
+    "path_id": 329
+  },
+  "330": {
+    "name": "Recorded (24)",
+    "path_id": 330
+  },
+  "331": {
+    "name": "Recorded (27)",
+    "path_id": 331
+  },
+  "332": {
+    "name": "Recorded (34)",
+    "path_id": 332
+  },
+  "333": {
+    "name": "Recorded (3)",
+    "path_id": 333
+  },
+  "334": {
+    "name": "Recorded (22)",
+    "path_id": 334
+  },
+  "335": {
+    "name": "Recorded (22)",
+    "path_id": 335
+  },
+  "336": {
+    "name": "Recorded (22)",
+    "path_id": 336
+  },
+  "337": {
+    "name": "Recorded (22)",
+    "path_id": 337
+  },
+  "338": {
+    "name": "Recorded (28)",
+    "path_id": 338
+  },
+  "339": {
+    "name": "Recorded (28)",
+    "path_id": 339
+  },
+  "340": {
+    "name": "Recorded (28)",
+    "path_id": 340
+  },
+  "341": {
+    "name": "Recorded (28)",
+    "path_id": 341
+  },
+  "342": {
+    "name": "Recorded (32)",
+    "path_id": 342
+  },
+  "343": {
+    "name": "Recorded (18)",
+    "path_id": 343
+  },
+  "344": {
+    "name": "Recorded (18)",
+    "path_id": 344
+  },
+  "345": {
+    "name": "Recorded (18)",
+    "path_id": 345
+  },
+  "346": {
+    "name": "Recorded (18)",
+    "path_id": 346
+  },
+  "347": {
+    "name": "Recorded (18)",
+    "path_id": 347
+  },
+  "348": {
+    "name": "Recorded (23)",
+    "path_id": 348
+  },
+  "349": {
+    "name": "Recorded (24)",
+    "path_id": 349
+  },
+  "350": {
+    "name": "Recorded (4)",
+    "path_id": 350
+  },
+  "351": {
+    "name": "Recorded (4)",
+    "path_id": 351
+  },
+  "352": {
+    "name": "Recorded (32)",
+    "path_id": 352
+  },
+  "353": {
+    "name": "Recorded (32)",
+    "path_id": 353
+  },
+  "354": {
+    "name": "Recorded (32)",
+    "path_id": 354
+  },
+  "355": {
+    "name": "Recorded (32)",
+    "path_id": 355
+  },
+  "356": {
+    "name": "Recorded (1)",
+    "path_id": 356
+  },
+  "357": {
+    "name": "Recorded (9)",
+    "path_id": 357
+  },
+  "358": {
+    "name": "Recorded (40)",
+    "path_id": 358
+  },
+  "359": {
+    "name": "Recorded (9)",
+    "path_id": 359
+  },
+  "360": {
+    "name": "Recorded (1)",
+    "path_id": 360
+  },
+  "361": {
+    "name": "Recorded (1)",
+    "path_id": 361
+  },
+  "362": {
+    "name": "Recorded (1)",
+    "path_id": 362
+  },
+  "363": {
+    "name": "Recorded (1)",
+    "path_id": 363
+  },
+  "364": {
+    "name": "Recorded (1)",
+    "path_id": 364
+  },
+  "365": {
+    "name": "Recorded (1)",
+    "path_id": 365
+  },
+  "366": {
+    "name": "Recorded (1)",
+    "path_id": 366
+  },
+  "367": {
+    "name": "Recorded (1)",
+    "path_id": 367
+  },
+  "368": {
+    "name": "Recorded (1)",
+    "path_id": 368
+  },
+  "369": {
+    "name": "Recorded (1)",
+    "path_id": 369
+  },
+  "370": {
+    "name": "Recorded (1)",
+    "path_id": 370
+  },
+  "371": {
+    "name": "Recorded (1)",
+    "path_id": 371
+  },
+  "372": {
+    "name": "Recorded (2)",
+    "path_id": 372
+  },
+  "373": {
+    "name": "Recorded (1)",
+    "path_id": 373
+  },
+  "374": {
+    "name": "Recorded (7)",
+    "path_id": 374
+  },
+  "375": {
+    "name": "Recorded (14)",
+    "path_id": 375
+  },
+  "376": {
+    "name": "Recorded (14)",
+    "path_id": 376
+  },
+  "377": {
+    "name": "Recorded (26)",
+    "path_id": 377
+  },
+  "378": {
+    "name": "Recorded (26)",
+    "path_id": 378
+  },
+  "379": {
+    "name": "Recorded (26)",
+    "path_id": 379
+  },
+  "380": {
+    "name": "Recorded (26)",
+    "path_id": 380
+  },
+  "381": {
+    "name": "Recorded (11)",
+    "path_id": 381
+  },
+  "382": {
+    "name": "Recorded (6)",
+    "path_id": 382
+  },
+  "383": {
+    "name": "Recorded (1)",
+    "path_id": 383
+  },
+  "384": {
+    "name": "Recorded (15)",
+    "path_id": 384
+  },
+  "385": {
+    "name": "Recorded (15)",
+    "path_id": 385
+  },
+  "386": {
+    "name": "Recorded (15)",
+    "path_id": 386
+  },
+  "387": {
+    "name": "Recorded (15)",
+    "path_id": 387
+  },
+  "388": {
+    "name": "Recorded (33)",
+    "path_id": 388
+  },
+  "389": {
+    "name": "Recorded (33)",
+    "path_id": 389
+  },
+  "390": {
+    "name": "Recorded (10)",
+    "path_id": 390
+  },
+  "391": {
+    "name": "Recorded (10)",
+    "path_id": 391
+  },
+  "392": {
+    "name": "Recorded (5)",
+    "path_id": 392
+  },
+  "393": {
+    "name": "Recorded (15)",
+    "path_id": 393
+  },
+  "394": {
+    "name": "Recorded (12)",
+    "path_id": 394
+  },
+  "395": {
+    "name": "Recorded (6)",
+    "path_id": 395
+  },
+  "396": {
+    "name": "Recorded (7)",
+    "path_id": 396
+  },
+  "397": {
+    "name": "Recorded (23)",
+    "path_id": 397
+  },
+  "398": {
+    "name": "Recorded (23)",
+    "path_id": 398
+  },
+  "399": {
+    "name": "Recorded (23)",
+    "path_id": 399
+  },
+  "400": {
+    "name": "Recorded (23)",
+    "path_id": 400
+  },
+  "401": {
+    "name": "Recorded (26)",
+    "path_id": 401
+  },
+  "402": {
+    "name": "Recorded",
+    "path_id": 402
+  },
+  "403": {
+    "name": "Recorded",
+    "path_id": 403
+  },
+  "404": {
+    "name": "Recorded",
+    "path_id": 404
+  },
+  "405": {
+    "name": "Recorded",
+    "path_id": 405
+  },
+  "406": {
+    "name": "Recorded",
+    "path_id": 406
+  },
+  "407": {
+    "name": "Recorded",
+    "path_id": 407
+  },
+  "408": {
+    "name": "Recorded",
+    "path_id": 408
+  },
+  "409": {
+    "name": "Recorded",
+    "path_id": 409
+  },
+  "410": {
+    "name": "Recorded",
+    "path_id": 410
+  },
+  "411": {
+    "name": "Recorded",
+    "path_id": 411
+  },
+  "412": {
+    "name": "Recorded",
+    "path_id": 412
+  },
+  "413": {
+    "name": "Recorded",
+    "path_id": 413
+  },
+  "414": {
+    "name": "Recorded (9)",
+    "path_id": 414
+  },
+  "415": {
+    "name": "Recorded (11)",
+    "path_id": 415
+  },
+  "416": {
+    "name": "Recorded (11)",
+    "path_id": 416
+  },
+  "417": {
+    "name": "Recorded (11)",
+    "path_id": 417
+  },
+  "418": {
+    "name": "Recorded (11)",
+    "path_id": 418
+  },
+  "419": {
+    "name": "Recorded (11)",
+    "path_id": 419
+  },
+  "420": {
+    "name": "Recorded (11)",
+    "path_id": 420
+  },
+  "421": {
+    "name": "Recorded (11)",
+    "path_id": 421
+  },
+  "422": {
+    "name": "Recorded (11)",
+    "path_id": 422
+  },
+  "423": {
+    "name": "Recorded (30)",
+    "path_id": 423
+  },
+  "424": {
+    "name": "Recorded",
+    "path_id": 424
+  },
+  "425": {
+    "name": "Recorded (12)",
+    "path_id": 425
+  },
+  "426": {
+    "name": "Recorded (12)",
+    "path_id": 426
+  },
+  "427": {
+    "name": "Recorded (12)",
+    "path_id": 427
+  },
+  "428": {
+    "name": "Recorded (12)",
+    "path_id": 428
+  },
+  "429": {
+    "name": "Recorded (3)",
+    "path_id": 429
+  },
+  "430": {
+    "name": "Recorded (13)",
+    "path_id": 430
+  },
+  "6": {
+    "name": "anm_CutIn",
+    "path_id": 6
+  },
+  "7": {
+    "name": "anm_CutOut",
+    "path_id": 7
+  },
+  "8": {
+    "name": "anm_scanAndroidIn",
+    "path_id": 8
+  },
+  "9": {
+    "name": "anm_scanAndroidOut",
+    "path_id": 9
+  },
+  "10": {
+    "name": "anm_scanwaiting",
+    "path_id": 10
+  },
+  "11": {
+    "name": "anm_sparkle",
+    "path_id": 11
+  },
+  "12": {
+    "name": "anm_sparkle_ability",
+    "path_id": 12
+  },
+  "13": {
+    "name": "anm_successApVb",
+    "path_id": 13
+  },
+  "14": {
+    "name": "anm_successVbAp",
+    "path_id": 14
+  },
+  "15": {
+    "name": "anm_text_ability",
+    "path_id": 15
+  }
+}
