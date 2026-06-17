@@ -6,10 +6,27 @@ apks/*.xapk
 apks/decompiled/
 apks/extracted/
 
+# Official reference scrape — copyrighted/generated data
+data/raw/digimon_reference/digimon.json
+data/raw/digimon_reference/errors.json
+data/raw/digimon_reference/images/
+data/raw/digimon_reference_smoke/
+
+# Python
+__pycache__/
+*.pyc
+
+# Unity asset extraction — copyrighted bytes stay local, manifests are committed
+extraction/_source/      # APK provenance manifests (json ok) but never the APKs
+extraction/raw/          # 1:1 AssetRipper / AssetStudio / il2cpp tool output
+extraction/decoded/      # post-processed textures, audio-wav, animations, textassets-json, spine
+# extraction/documented/ is committed — metadata/manifests only, no copyrighted bytes
+
 # Keys — never commit
 keys.xml
 *.keystore
 secrets/
+global-metadata.dat
 
 # Nix
 .direnv/
